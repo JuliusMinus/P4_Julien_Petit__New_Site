@@ -705,8 +705,20 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 20px;
     line-height: 1.4em;
+}
+.substitution-1 {
+    font-size: 25px;
+}
+
+.substitution-2 {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.substitution-3 {
+    font-size: 23px;
 }
 
 h3 {
